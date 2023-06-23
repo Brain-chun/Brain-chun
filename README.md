@@ -3,7 +3,7 @@
 <p align='center'> working for new management skills </p>
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
-    <img src="https://img.shields.io/badge/k8s-326CE5?style=flate&logo=kubernetes&logoColor=white">
+    <img src="https://img.shields.io/badge/c-A8B9CC?style=flate&logo=c&logoColor=white">
   </a>
   <a>
     <img src="https://img.shields.io/badge/k8s-326CE5?style=flate&logo=kubernetes&logoColor=white">
