@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Brain's%20GitHub%20Profile%2&descAlignY=51&descAlign=62)
-<p align='center'> studying for SW skills </p>
+<p align='center'> studying for SW & cloud managment skills </p>
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
     <img src="https://img.shields.io/badge/c-A8B9CC?style=flate&logo=c&logoColor=white">
